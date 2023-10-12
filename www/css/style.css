@@ -1,10 +1,10 @@
 /**/
-body{
+body {
     background-color: skyblue;
 }
-    button{
+    button {
         color: blue;
-        font-family: times;
+        font-family: Times;
         border-radius: 20px;
     }
 
